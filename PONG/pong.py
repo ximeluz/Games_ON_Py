@@ -1,4 +1,5 @@
 ###          Codigo de juego PONG        ###
+## Primera version ##
 import turtle
 
 ##abrimos una ventana
